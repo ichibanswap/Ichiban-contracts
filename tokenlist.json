@@ -81,14 +81,6 @@
       "decimals": 6,
       "chainId": 30,
       "logoURI": "https://app.solarbeam.io/images/tokens/usdt.png"
-    },
-    {
-      "name": "Ichiban Token",
-      "address": "0x47d7D8176a8cBc209bE10a4b14d312ca1C05C8Ff",
-      "symbol": "CHI",
-      "decimals": 18,
-      "chainId": 30,
-      "logoURI": "https://raw.githubusercontent.com/ichibanswap/build-ichiban/main/assets/Ichiban%20Token%20Logo%20-%20SVG.svg"
     }
   ]
 }
